@@ -1,1 +1,1 @@
-add a string at end or begin of every line 
+expression math builder
